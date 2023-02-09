@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there/Olá!!👋 Eu sou o Nicolas e este é meu git :)
 
-<!--
-**NiP1s/NiP1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/nicolas-pereira-da-silva/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://github.com/NiP1s">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NiP1s&show_icons=true&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiP1s&show_icons=true&theme=midnight-purple"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
